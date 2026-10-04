@@ -1,0 +1,15 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="100" fill="#04203e"/>
+  <!-- Choivio Official Emblem -->
+  <g transform="translate(6, 6) scale(0.97)">
+    <!-- Outer Bold C with aperture arches -->
+    <path d="M 112 108 C 112 108 380 108 380 108 C 394 108 400 120 392 136 L 368 184 C 362 196 348 200 334 192 L 310 178 L 172 178 L 172 334 L 310 334 L 334 320 C 348 312 362 316 368 328 L 392 376 C 400 392 394 404 380 404 L 112 404 C 92 404 76 388 76 368 L 76 144 C 76 124 92 108 112 108 Z" fill="#7ad1ff"/>
+    
+    <!-- White Viewfinder Bracket -->
+    <path d="M 152 148 L 268 148 L 268 166 L 174 166 L 174 346 L 268 346 L 268 364 L 152 364 Z" fill="#ffffff"/>
+    
+    <!-- Central Play Disc -->
+    <circle cx="292" cy="256" r="54" fill="#7ad1ff"/>
+    <polygon points="278,226 324,256 278,286" fill="#04203e"/>
+  </g>
+</svg>
