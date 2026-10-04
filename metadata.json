@@ -1,0 +1,6 @@
+{
+  "name": "VoxStudio Text-to-Speech",
+  "description": "Professional Text-to-Speech Studio with multi-voice synthesis, custom pitch and rate modulation, dual-speaker dialogue, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
